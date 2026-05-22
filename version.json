@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/cagdaskemaloglu/torva-firmware/releases/download/v1.1.0/ESP32_DualStrip.ino.bin",
-  "notes": "Support Dual Strip"
+  "version": "1.1.1",
+  "url": "https://github.com/cagdaskemaloglu/torva-firmware/releases/download/v1.1.1/ESP32_Light.ino.bin",
+  "notes": "Support Dual Strip v.1.1.1"
 }
