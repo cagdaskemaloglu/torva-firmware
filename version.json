@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://raw.githubusercontent.com/cagdaskemaloglu/torva-firmware/main/firmware/ESP32_Light.ino.bin",
-  "notes": "New Effects and Sleep Mode Feature"
+  "notes": "Sleep Mode Brightness Fix"
 }
