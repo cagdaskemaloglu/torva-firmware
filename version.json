@@ -1,5 +1,5 @@
 {
-  "version": "1.3.6",
+  "version": "1.3.7",
   "url": "https://raw.githubusercontent.com/cagdaskemaloglu/torva-firmware/main/firmware/ESP32_Light.ino.bin",
-  "notes": "Device matching feature"
+  "notes": "OTA parts key update fix "
 }
